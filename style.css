@@ -1,0 +1,15 @@
+body{
+    width: 100%;
+    height: 150vh;
+    background-color: cadetblue;
+    font-family: sans-serif;
+}
+nav{
+    background-color: rgba(0, 0, 255, 0.075);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+    display: block;
+}
+nav ul li{
+    display: inline;
+}
